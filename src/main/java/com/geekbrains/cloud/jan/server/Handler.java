@@ -1,6 +1,6 @@
 package com.geekbrains.cloud.jan.server;
 
-// import com.geekbrains.cloud.jan.client.User;
+// import com.geekbrains.cloud.jan.client.User; pull
 
 import com.geekbrains.cloud.jan.db.DatabaseHandler;
 import io.netty.channel.Channel;
